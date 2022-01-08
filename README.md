@@ -2,10 +2,10 @@
 
  ## &#x1f4c8; GitHub Stats
  <a href="https://www.github.com/ebaldacchino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaldacchino&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="My most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaldacchino&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" alt="My most used languages" />
 </a>
 <a href="https://github.com/ebaldacchino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ebaldacchino&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ebaldacchino&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 </a>
 <a href="https://www.github.com/ebaldacchino/my-pt-booking-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebaldacchino&repo=my-pt-booking-system&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="I'm currently working on..." />
