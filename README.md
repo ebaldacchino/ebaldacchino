@@ -7,7 +7,7 @@ You can find me here and on [LinkedIn](https://www.linkedin.com/in/edwardbaldacc
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaldacchino&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" alt="My most used languages" />
 </a>
 <a href="https://github.com/ebaldacchino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ebaldacchino&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ebaldacchino&show_icons=true&line_height=28&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 </a>
 
 ## &#x1F527; Technology & Tools
