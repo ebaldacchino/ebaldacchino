@@ -1,8 +1,8 @@
 ### Hey guys 👋
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaldacchino&theme=<THEME_NAME>" />
- -->
- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ebaldacchino)](https://github.com/ebaldacchino)
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaldacchino&theme=dark" />
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ebaldacchino&theme=dark)](https://github.com/ebaldacchino)
+ 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebaldacchino&theme=dark" />
 
 
 <!--
