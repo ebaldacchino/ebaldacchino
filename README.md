@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey guys 👋
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaldacchino&theme=<THEME_NAME>" />
+ -->
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ebaldacchino)](https://github.com/ebaldacchino)
+
 
 <!--
 **ebaldacchino/ebaldacchino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
