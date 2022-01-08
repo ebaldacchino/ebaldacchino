@@ -5,7 +5,7 @@
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebaldacchino&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ebaldacchino&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
  
-![I'm currently working on](https://github-readme-stats.vercel.app/api/pin/?username=ebaldacchino&repo=my-pt-booking-system&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://www.github.com/ebaldacchino/my-pt-booking-system) 
+[![I'm currently working on](https://github-readme-stats.vercel.app/api/pin/?username=ebaldacchino&repo=my-pt-booking-system&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://www.github.com/ebaldacchino/my-pt-booking-system) 
  
 <!--
 **ebaldacchino/ebaldacchino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
