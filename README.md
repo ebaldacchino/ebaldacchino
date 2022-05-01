@@ -1,16 +1,8 @@
 # Hey guys 👋
-My name is Edward Baldacchino and I'm a web developer. I'm from Melbourne, currently working for DNS Technology. 
+My name is Edward Baldacchino and I'm a full-stack developer from Melbourne. 
 You can find me here and on [LinkedIn](https://www.linkedin.com/in/edwardbaldacchino/).
 
- ## &#x1f4c8; GitHub Stats
- <a href="https://www.github.com/ebaldacchino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaldacchino&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" alt="My most used languages" />
-</a>
-<a href="https://github.com/ebaldacchino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ebaldacchino&show_icons=true&line_height=28&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
-</a>
-
-## &#x1F527; Technology & Tools
+## &#x1F527; Languages & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Rider-informational?style=flat&logo=rider&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
@@ -25,6 +17,13 @@ You can find me here and on [LinkedIn](https://www.linkedin.com/in/edwardbaldacc
 ![](https://img.shields.io/badge/Tools-Strapi-informational?style=flat&logo=strapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
 
+ ## &#x1f4c8; Stats
+ <a href="https://www.github.com/ebaldacchino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebaldacchino&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" alt="My most used languages" />
+</a>
+<a href="https://github.com/ebaldacchino">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ebaldacchino&show_icons=true&line_height=28&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
+</a>
 
 ## &#127968; I'm Currently Working On
 <a href="https://www.github.com/ebaldacchino/my-pt-booking-system">
