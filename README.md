@@ -3,19 +3,28 @@ My name is Edward Baldacchino and I'm a full-stack developer from Melbourne.
 You can find me here and on [LinkedIn](https://www.linkedin.com/in/edwardbaldacchino/).
 
 ## &#x1F527; Languages & Tools
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Rider-informational?style=flat&logo=rider&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node_JS-informational?style=flat&logo=nodedotjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Next_JS-informational?style=flat&logo=nextdotjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Express_JS-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CSS-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Gatsby_JS-informational?style=flat&logo=gatsby&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Strapi-informational?style=flat&logo=strapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TypeScript-informational?style=plastic&logo=typescript&logoColor=white&color=3178C6)
+![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/C%23-informational?style=plastic&logo=csharp&logoColor=white&color=239120)
+
+![](https://img.shields.io/badge/React-informational?style=plastic&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Next_JS-informational?style=plastic&logo=nextdotjs&logoColor=white&color=000)
+![](https://img.shields.io/badge/Gatsby_JS-informational?style=plastic&logo=gatsby&logoColor=white&color=663399)
+
+![](https://img.shields.io/badge/Node_JS-informational?style=plastic&logo=nodedotjs&logoColor=white&color=339933)
+![](https://img.shields.io/badge/Express_JS-informational?style=plastic&logo=express&logoColor=white&color=000)
+![](https://img.shields.io/badge/MongoDB-informational?style=plastic&logo=mongodb&logoColor=white&color=47A248)
+
+![](https://img.shields.io/badge/Tailwind_CSS-informational?style=plastic&logo=tailwindcss&logoColor=white&color=06B6D4)
+![](https://img.shields.io/badge/Styled_Components-informational?style=plastic&logo=styled-components&logoColor=white&color=DB7093)
+![](https://img.shields.io/badge/Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white&color=7952B3)
+
+![](https://img.shields.io/badge/Git-informational?style=plastic&logo=git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/GitHub-informational?style=plastic&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/VS_Code-informational?style=plastic&logo=visualstudiocode&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Rider-informational?style=plastic&logo=rider&logoColor=white&color=000)
+![](https://img.shields.io/badge/Strapi-informational?style=plastic&logo=strapi&logoColor=white&color=2F2E8B)
+![](https://img.shields.io/badge/WordPress-informational?style=plastic&logo=wordpress&logoColor=white&color=21759B)
 
  ## &#x1f4c8; Stats
  <a href="https://www.github.com/ebaldacchino">
