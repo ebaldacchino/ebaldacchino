@@ -3,9 +3,11 @@ My name is Edward Baldacchino and I'm a full-stack developer from Melbourne.
 You can find me here and on [LinkedIn](https://www.linkedin.com/in/edwardbaldacchino/).
 
 ## &#x1F527; Languages & Tools
+<!-- https://simpleicons.org/ -->
 ![](https://img.shields.io/badge/TypeScript-informational?style=plastic&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/C%23-informational?style=plastic&logo=csharp&logoColor=white&color=239120)
+![](https://img.shields.io/badge/Python-informational?style=plastic&logo=python&logoColor=white&color=3776AB)
 
 ![](https://img.shields.io/badge/React-informational?style=plastic&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Next_JS-informational?style=plastic&logo=nextdotjs&logoColor=white&color=000)
